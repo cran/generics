@@ -1,7 +1,7 @@
-fd5e667d0bd7b4d2ddd940a232036d0c *DESCRIPTION
+e626658d1a86e7775c0f083313da8d64 *DESCRIPTION
 74d5a1914fe128593e981fb7c468e479 *NAMESPACE
-cf9e77dc5d4c431296e76a8c0ef83c81 *NEWS.md
-376e0e9674a0d3f1b769abc1261a4b2c *R/augment.R
+371f2e22d267db7caacc754a5c7325f1 *NEWS.md
+a1bd47ef344ca3b8c8e16bfbd0fa120e *R/augment.R
 1ec5c5e1d2f1f73ff275fd1091a20b3e *R/calculate.R
 775f146887bd51d40b8c57dcc03a57c5 *R/coercion.R
 5257de8b9a5dcf09e45aaa0ae70ab9bf *R/compile.R
@@ -28,9 +28,9 @@ eedc6ed8f894f7e569a0133b55fcbb68 *R/interpolate.R
 308a234672bf50facd5913883501b3f4 *R/var_imp.R
 cf7ec6cf9623759597133947bda96adc *R/varying_args.R
 6b47983c74b128cabf453745e4c39779 *R/visualize.R
-27b8a6b7c395ff9089fe58da191c0bbd *README.md
-8c2a5a47703a9fe5cc0457202bb14f51 *build/generics.pdf
-957ac6d9de2cd6e3147b8fc6d6929774 *man/augment.Rd
+320aede256a0f9a4ef7de8a767a68b26 *README.md
+58a15afdeebe5de9144aec7666d06e55 *build/generics.pdf
+523b56b30a4c9ac8c807d8ccda8d344d *man/augment.Rd
 83ab075348313b46dc2e2d519b1c1341 *man/calculate.Rd
 4c48614ad02aedc37c68cdeb344b5d3d *man/coercion-factor.Rd
 deb545088c9a00e968319b13b0e49b3c *man/coercion-time-difference.Rd
