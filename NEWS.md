@@ -1,3 +1,9 @@
+# generics 0.1.2
+
+# generics 0.1.2
+
+* New `forecast()` and `accuracy()` generics.
+
 # generics 0.1.1
 
 * New `tune_args()` generic.

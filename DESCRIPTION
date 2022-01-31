@@ -1,7 +1,7 @@
 Package: generics
 Title: Common S3 Generics not Provided by Base R Methods Related to
         Model Fitting
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     c(person(given = "Hadley",
              family = "Wickham",
@@ -30,11 +30,11 @@ Config/testthat/edition: 3
 Encoding: UTF-8
 RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2021-10-25 20:55:49 UTC; max
+Packaged: 2022-01-31 22:58:18 UTC; hadley
 Author: Hadley Wickham [aut, cre],
   Max Kuhn [aut],
   Davis Vaughan [aut],
   RStudio [cph]
 Maintainer: Hadley Wickham <hadley@rstudio.com>
 Repository: CRAN
-Date/Publication: 2021-10-25 21:50:02 UTC
+Date/Publication: 2022-01-31 23:30:02 UTC
